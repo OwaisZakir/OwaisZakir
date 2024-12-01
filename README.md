@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=owaiszakir&label=Profile%20views&color=0e75b6&style=flat" alt="owaiszakir" /> </p>
 
-- 🔭 I’m currently working on [JavaScript Calculator](https://owaiszakir.github.io/js-calculator/)
+- 🔭 I’m currently working on [Masjid Website](https://owaiszakir.github.io/hackathon/)
 
 - 🌱 I’m currently learning **Mern Stack Development**
 
