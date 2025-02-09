@@ -3,9 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=owaiszakir&label=Profile%20views&color=0e75b6&style=flat" alt="owaiszakir" /> </p>
 
-- 🔭 I’m currently working on [PrimeMarket](https://owaiszakir.github.io/PrimeMarket/)
+- 🔭 I’m currently working on [Online-Quran-Teaching Website](Online-Quran.surge.sh)
 
 - 🌱 I’m currently learning **Mern Stack Development**
+
+- 👯 I’m looking to collaborate on [Online-Quran-Teaching](https://github.com/OwaisZakir/Online-Quran-Teaching)
+
+- 👨‍💻 All of my projects are available at [https://github.com/OwaisZakir](https://github.com/OwaisZakir)
 
 - 💬 Ask me about **Html,Css,JavaScript,Sass,Bootstrap,Gsap,& etc...**
 
