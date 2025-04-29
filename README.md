@@ -4,6 +4,7 @@
 <h3 align="center">A passionate Mern Stack developer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=owaiszakir&label=Profile%20views&color=0e75b6&style=flat" alt="owaiszakir" /> </p>
+
 [![StandWithPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg)](https://github.com/Safouene1/support-palestine-banner/blob/master/Markdown-pages/Support.md)
 
 
