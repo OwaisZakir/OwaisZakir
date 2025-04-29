@@ -3,8 +3,9 @@
 <h1 align="center">Hi 👋, I'm OWAIS ZAKIR</h1>
 <h3 align="center">A passionate Mern Stack developer from Pakistan</h3>
 
-[![StandWithPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg)](https://github.com/Safouene1/support-palestine-banner/blob/master/Markdown-pages/Support.md)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=owaiszakir&label=Profile%20views&color=0e75b6&style=flat" alt="owaiszakir" /> </p>
+[![StandWithPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg)](https://github.com/Safouene1/support-palestine-banner/blob/master/Markdown-pages/Support.md)
+
 
 - 🔭 I’m currently working on [Online-Quran-Teaching Website](Online-Quran.surge.sh)
 
